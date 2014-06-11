@@ -4,9 +4,6 @@ this is modified from testing branch
 test test test
 new test new message from master
 modified form testing branch
-new branch
-new branch sfsfafsdaf
-test message
 sfafafadsfd new test fslslsl
 abcdeflslslslaaaamaaster change
 aaaaa
